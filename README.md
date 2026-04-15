@@ -32,4 +32,3 @@ Sorting arranges items in ascending or descending order based on a property, suc
 - [CheckedListBox Sorting](https://help.syncfusion.com/wpf/checkedlistbox/sorting)
 
 ---
-
